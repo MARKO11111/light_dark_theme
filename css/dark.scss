@@ -1,0 +1,14 @@
+$background: #333;
+$bg-panel: #434343;
+$color-headings: #3694FF;
+$color-text: #B5B5B5;
+
+ html[data-theme='dark'] body {
+    background-color: $background;
+}
+ html[data-theme='dark'] .container {
+    background-color: $bg-panel;
+ }
+ html[data-theme='dark'] p {
+        color: $color-text;
+ }

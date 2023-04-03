@@ -1,0 +1,12 @@
+html[data-theme='dark'] body {
+  background-color: #333;
+}
+
+html[data-theme='dark'] .container {
+  background-color: #434343;
+}
+
+html[data-theme='dark'] p {
+  color: #B5B5B5;
+}
+/*# sourceMappingURL=dark.css.map */
